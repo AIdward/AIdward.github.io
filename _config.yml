@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "aqua" #"default" "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Best"
+title                    : "The Unique"
 title_separator          : "-"
-subtitle                 : "SW-Developer" # site tagline that appears below site title in masthead
+subtitle                 : # "Looking for a dream" # site tagline that appears below site title in masthead
 name                     : "Edward"
-description              : "Looking for a dream"
+description              : # "Looking for a dream"
 url                      : "https://SunwoongShin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,17 +94,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "SW-developer"
+  avatar           : "/assets/images/profile2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Looking for a dream"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+      url: "dev.ios.edward@email.com"
+    - #label: "Website"
+      #icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -114,10 +114,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/SunwoongShin"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/24s_edward"
 
 # Site Footer
 footer:
