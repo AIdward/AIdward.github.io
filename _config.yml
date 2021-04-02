@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "aqua" #"default" "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Unique"
-title_separator          : "-"
+title                    : "**The Unique**"
+title_separator          : #"-"
 subtitle                 : # "Looking for a dream" # site tagline that appears below site title in masthead
 name                     : "Edward"
 description              : # "Looking for a dream"
