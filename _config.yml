@@ -118,8 +118,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/24s_edward"
-  sidebar:
-    nav: "docs"
 
 # Site Footer
 footer:
@@ -282,3 +280,6 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
+    
