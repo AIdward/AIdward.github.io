@@ -118,7 +118,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/24s_edward"
-  {% include category-tag-list.html %}
+  #{% include category-tag-list.html %}
 
 # Site Footer
 footer:
